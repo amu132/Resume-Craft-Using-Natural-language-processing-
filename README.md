@@ -1,8 +1,6 @@
 
 ## About the Project 🥱
-<div align="center">
-    <br/><img src="https://raw.githubusercontent.com/deepakpadhi986/AI-Resume-Analyzer/main/screenshots/RESUME.png" alt="screenshot" /><br/><br/>
-    <p align="justify"> 
+
       A tool which parses information from a resume using natural language processing and finds the keywords, cluster them onto sectors based on their keywords. 
       And lastly show recommendations, predictions, analytics to the applicant / recruiter based on keyword matching.
     </p>
@@ -142,7 +140,7 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database ```cv```
 
 And change user credentials inside ```App.py```
-https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
+
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
@@ -166,7 +164,6 @@ If ``GeocoderUnavailable`` error comes up then just check your internet connecti
 ## Issue While Installation and Set-up 🤧
 Check-out installation [Video](https://youtu.be/WFruijLC1Nc)
 
-Feel Free to <a href="mailto:dnoobnerd@gmail.com?subject=I%20have%20an%20issue%20while%20setup%2Finstalling%20of%20AI%20RESUME%20ANALYZER&body=Name%3A%20-%0D%0A%0D%0ADesignation%3A%20-%0D%0A%0D%0APlease%20describe%20your%20problem%20in%20brief%20with%20attached%20photos%20of%20error">Send mail</a>
 
 ## Usage
 - After the setup it will do stuff's automatically
@@ -183,23 +180,3 @@ Feel Free to <a href="mailto:dnoobnerd@gmail.com?subject=I%20have%20an%20issue%2
 * [x] Fetch more details from users resume.
 * [ ] View individual user details.
 
-## Contributing 🤘
-Pull requests are welcome. 
-
-For major changes, please open an issue first to discuss what you would like to change.
-
-
-
-
-
-
-
-
-
-
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/6-piescre.jpg?raw=true)
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
-
-### Built with 🤍 AI RESUME ANALYZER by <a href="https://dnoobnerd.netlify.app/">Deepak Padhi</a>
