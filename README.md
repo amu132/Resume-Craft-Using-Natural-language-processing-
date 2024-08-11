@@ -161,8 +161,7 @@ streamlit run App.py
 ## Known Error 🤪
 If ``GeocoderUnavailable`` error comes up then just check your internet connection and network speed
 
-## Issue While Installation and Set-up 🤧
-Check-out installation [Video](https://youtu.be/WFruijLC1Nc)
+
 
 
 ## Usage
